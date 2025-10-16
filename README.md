@@ -66,6 +66,6 @@ link: https://universe.roboflow.com/wanjohik/potholes-detection-tkn7o/browse?que
 
 | Metric    | Score |
 | --------- | ----- |
-| Precision | 0.94  |
-| Recall    | 0.91  |
-| mAP@50    | 0.93  |
+| Precision | 0.68  |
+| Recall    | 0.58  |
+| mAP@50    | 0.66  |
